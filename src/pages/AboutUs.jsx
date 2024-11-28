@@ -18,7 +18,7 @@ const AboutUs = () => {
             Foodio is a contemporary restaurant offering a diverse menu that blends the finest ingredients with creative flair. Our mission is to provide an exceptional dining experience by combining high-quality food, impeccable service, and a warm ambiance. Whether you’re here for a casual lunch or a special occasion, we strive to make every meal memorable.
           </p>
           <p className="text-gray-600 text-lg leading-relaxed mt-4">
-            Established in 2015, Foodio has been serving the community for over a decade with passion, dedication, and a commitment to excellence. Our menu features a variety of dishes, from classic comfort food to innovative new creations, ensuring that there’s something for everyone to enjoy.
+            Established in 2024, Our menu features a variety of dishes, from classic comfort food to innovative new creations, ensuring that there’s something for everyone to enjoy.
           </p>
         </section>
 
