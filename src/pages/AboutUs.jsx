@@ -34,7 +34,7 @@ const AboutUs = () => {
               Meet the Owner
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed">
-              Utsav Raj, the visionary behind Foodio, has always been passionate about food and hospitality. With over 10 years of experience in the culinary world, Raj has worked with some of the best chefs and restaurants globally. His dream was to create a place where food lovers can come together to enjoy delicious, thoughtfully prepared meals in a welcoming environment.
+              Shivam Kumar, the visionary behind Foodio, has always been passionate about food and hospitality. With over 10 years of experience in the culinary world, Raj has worked with some of the best chefs and restaurants globally. His dream was to create a place where food lovers can come together to enjoy delicious, thoughtfully prepared meals in a welcoming environment.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mt-4">
               "Foodio is not just a restaurant; it’s a place where we celebrate flavors, culture, and community. We believe in using fresh, locally sourced ingredients and preparing everything from scratch, ensuring that each dish is bursting with authentic flavors and crafted with love."
