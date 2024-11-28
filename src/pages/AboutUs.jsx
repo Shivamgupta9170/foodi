@@ -25,7 +25,7 @@ const AboutUs = () => {
         {/* Owner Description */}
         <section className="bg-white shadow-md rounded-lg overflow-hidden p-8 flex flex-col md:flex-row items-center md:items-start">
           <img
-            src="dp of utsav.jpeg"
+            src="WhatsApp Image 2022-02-06 at 7.57.32 PM.jpeg"
             alt="Owner"
             className="w-64 h-64 object-cover rounded-full shadow-lg mb-6 md:mb-0 md:mr-8"
           />
